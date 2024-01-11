@@ -27,4 +27,4 @@ To use this theme, follow these steps:
 
 Feel free to customize and modify the theme according to your preferences.
 
-Happy coding!
+Happy coding! 🪄
