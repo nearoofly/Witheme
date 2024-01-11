@@ -20,6 +20,8 @@ To use this theme, follow these steps:
 
 5. Save the changes.
 
+⌨️ The same for all other files •>
+
 ## Author
 
 - GitHub: [Wharkly](https://github.com/nearoofly)
