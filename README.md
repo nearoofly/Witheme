@@ -22,7 +22,7 @@ To use this theme, follow these steps:
 
 ## Author
 
-- GitHub: [Wharkly](https://github.com/Wharkly)
+- GitHub: [Wharkly](https://github.com/nearoofly)
 - Email: wharklya@gmail.com
 
 Feel free to customize and modify the theme according to your preferences.
